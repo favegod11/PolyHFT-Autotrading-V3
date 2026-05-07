@@ -2,6 +2,7 @@
 
 **A polished TypeScript autotrading bot for Polymarket-style YES/NO, Above/Below, Hit Price, and Range markets.**
 
+
 PolyHFT-Autotrading-V3 boots into a full operator console, ranks active opportunities, risk-checks every paired entry, and routes trades through a unified execution cycle with paper and live-ready modes.
 
 ![PolyHFT-Autotrading-V3 Terminal Preview](docs/assets/terminal-profit-live.svg)
@@ -152,4 +153,4 @@ docs/
 
 ## Disclaimer
 
-v. 0.1.25.2026-04-05T14:04:55.674Z
+v. 0.1.25.2026-05-07T14:44:51.555Z
